@@ -21,7 +21,7 @@
 .featurette {
     margin-bottom: 1rem;
 }
-.col-md-8 {
+.col-md-8:hover {
     display: flex;
     justify-content: center;
     align-items: center;
@@ -54,9 +54,6 @@
 }
 .message {
     margin-bottom: "10";
-}
-footer {
-   /* display: flex; */
 }
 .barre {
     width: 100%;
